@@ -1,0 +1,26 @@
+{
+  "name": "maticfaucets",
+  "version": "1.0.0",
+  "description": "Earn 0.60 Matic Every 15/s",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beo857/maticFaucets.git"
+  },
+  "keywords": [
+    "matic",
+    "faucets"
+  ],
+  "author": "Beo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beo857/maticFaucets/issues"
+  },
+  "homepage": "https://github.com/Beo857/maticFaucets#readme",
+  "dependencies": {
+    "web3": "^1.10.0"
+  }
+}
